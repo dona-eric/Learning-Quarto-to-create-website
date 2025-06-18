@@ -1,0 +1,149 @@
+---
+title: "About"
+format: html
+page-layout: full
+---
+
+# 👤 À propos de moi
+
+![Portrait](images/Eric-2.JPG){width=190px style="border-radius: 50%; float: right; margin-left: 20px;"}
+
+Je suis **Éric KOULODJI**, passionné par la **Data Science** et l’**Intelligence Artificielle**, avec une forte envie de mettre la technologie au service des réalités locales.
+
+Après ma formation en **Physique Fondamentale** à l'Univeristé d'Abomey-Calavi, je me suis orienté vers la Data Science & IA pour transformer les données en solutions concrètes : analyse, automatisation et accompagnement stratégique.
+
+---
+
+## 🎓 Parcours académique
+
+- 🧪 Licence en **Physique Fondamentale**
+- 🧠 Formation en **Data Science & IA** avec **Africa TechUp Tour** et **Isheero**
+- 📚 Certifications sur **OpenClassrooms** (Python, Data Analysis, Machine Learning…)
+- 🎓 Certification  **Coursera – Data Science Specialization**
+
+---
+
+## 💼 Expériences Professionnelles
+
+#### 👨‍💻 Data Scientist & Développeur ML – *NerdX Digital*  
+📅 Octobre 2024 – aujourd’hui  
+Analyse des données environnementales pour prévoir l’évolution du **NO₂** et **CO₂** dans les écosystèmes verts.
+
+---
+
+#### 🧠 Machine Learning Intern – *Codveda Technologies*  
+📅 Avril – Mai 2025  
+- Implémentation de modèles : **Régression linéaire, SVM, kMeans, Random Forest**
+- Analyse de **données textuelles** et détection de sentiments via réseaux de neurones
+- **Déploiement sur Google Cloud Platform** avec surveillance active
+
+---
+
+#### ✈️ Data Scientist Intern – *British Airways*  
+📅 Août – Septembre 2024  
+- Extraction & analyse des **avis clients**
+- Prédiction de **réservation de vol**
+- Création d'**API TripApp** intégrées à une application de réservation de vol
+
+---
+
+## 🛠️ Compétences techniques
+
+
+<div style="max-width: 700px;">
+
+#### 📊 Data Science & Machine Learning
+
+**Python**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 95%; background-color: #4caf50; padding: 5px; border-radius: 5px; color: white;">95%</div>
+</div>
+
+**Pandas / Plotly / Dash**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 90%; background-color: #4caf50; padding: 5px; border-radius: 5px; color: white;">90%</div>
+</div>
+
+**Machine Learning (Scikit-learn)**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 88%; background-color: #2196f3; padding: 5px; border-radius: 5px; color: white;">88%</div>
+</div>
+
+**Deep Learning (TensorFlow, PyTorch)**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 80%; background-color: #ff9800; padding: 5px; border-radius: 5px; color: white;">80%</div>
+</div>
+
+**NLP & LLMs**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 85%; background-color: #673ab7; padding: 5px; border-radius: 5px; color: white;">85%</div>
+</div>
+
+---
+
+#### 🌐 Développement Web
+
+**Django / Django Rest Framework**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 90%; background-color: #3f51b5; padding: 5px; border-radius: 5px; color: white;">90%</div>
+</div>
+
+**FastAPI**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 75%; background-color: #03a9f4; padding: 5px; border-radius: 5px; color: white;">75%</div>
+</div>
+
+**HTML / CSS / SQL**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 85%; background-color: #00bcd4; padding: 5px; border-radius: 5px; color: white;">75%</div>
+</div>
+
+---
+
+#### 🧰 Outils & Cloud
+
+**Git / GitLab**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 92%; background-color: #795548; padding: 5px; border-radius: 5px; color: white;">80%</div>
+</div>
+
+**Docker / Kubernetes**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 75%; background-color: #607d8b; padding: 5px; border-radius: 5px; color: white;">50%</div>
+</div>
+
+**GCP / AWS / Render**  
+<div style="background-color: #e0e0e0; border-radius: 5px;">
+  <div style="width: 80%; background-color: #009688; padding: 5px; border-radius: 5px; color: white;">55%</div>
+</div>
+
+</div>
+
+
+
+## 🌍 Vision
+
+Je crois en une **IA utile, éthique et contextuelle**, capable de répondre aux besoins spécifiques des communautés locales — particulièrement en Afrique.
+
+> "L’intelligence artificielle ne vaut que si elle résout un vrai problème humain."
+
+---
+
+## 🤝 Ce que je recherche
+
+- Collaborations sur des projets à impact
+- Opportunités de recherche ou de formation avancée (ex. AIMS, bourses internationales)
+- Partage de connaissance via YouTube, LinkedIn ou workshops
+
+---
+
+## 📫 Contact
+
+Vous pouvez me retrouver sur :
+
+
+- 📧 [Email](mailto:donaerickoulodji@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/dona-erick)
+- 🐙 [GitHub](https://github.com/dona-eric)
+- 🧠 [Chaîne YouTube – DataWorld](https://www.youtube.com/@data-world-o4u)
+

@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Dona Eric KOULODJI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contacts
+      - href: events.qmd
+        text: Events & Vlog
+
+    rigth:
+      - icon: github
+        href: https://github.com/dona-eric
+      - icon: Linkedin
+        href : https://www.linkedin.com/in/dona-erick
+      - icon : Twitter
+        href : https://x.com/Ericschrodinger
+      - icon : Facebook
+        href : https://www.facebook.com/eric.koulodji
+      - icon : Medium
+        href : https://www.medium.com/@koulodjiric
+format:
+  html:
+    theme:
+      - flatly
+      - brand
+    css: styles.css
+    toc: true
+
+
+

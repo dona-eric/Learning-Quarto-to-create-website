@@ -1,0 +1,13 @@
+/* css styles */
+h1, h2, h3 {
+  color: #1a73e8;
+  font-weight: bold;
+}
+
+img {
+  margin-bottom: 1rem;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
