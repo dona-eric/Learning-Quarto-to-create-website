@@ -1,0 +1,34 @@
+---
+title: "Contact"
+format: html
+page-layout: full
+---
+
+# 📬 Me Contacter
+
+Vous souhaitez collaborer, me poser une question ou juste échanger ?  
+N’hésitez pas à me contacter via les moyens ci-dessous :
+
+---
+
+## 💬 WhatsApp
+
+Cliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :
+
+[![Me contacter sur WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?logo=whatsapp&style=for-the-badge)](https://wa.me/2290151344289)
+
+## 💼 Réseaux professionnels
+
+- [LinkedIn](https://www.linkedin.com/in/dona-erick)
+- [GitHub](https://github.com/dona-eric)
+- [Twitter](https://twitter.com/Ericschrodinger)
+
+## 📍 Localisation
+
+- 🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)
+
+---
+
+## 🗂 Pièces jointes
+
+- [Télécharger mon CV (PDF)](files/cv_eric.pdf)

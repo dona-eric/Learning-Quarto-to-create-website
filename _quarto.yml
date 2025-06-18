@@ -14,7 +14,7 @@ website:
       - href: contact.qmd
         text: Contacts
       - href: event.qmd
-        text: Events & Vlog
+        text: Events
 
     rigth:
       - icon: github
