@@ -112,8 +112,8 @@
     "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée.\n\n\n\n\n\n\n\nEmotion Recognition\n\n\nCe projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.\n📌 Tech : OpenCV, Deep Learning, CNN, Keras, Python.\n\n\n\n\n\n\n\nFake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow\n\n\n\n\n\n\n\nVentes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande.\n\n\n\n\n\n\n\nPortfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
   },
   {
-    "objectID": "project.html#hack2hiere-techtech-datascience-2020",
-    "href": "project.html#hack2hiere-techtech-datascience-2020",
+    "objectID": "project.html#hack2hiere-tech-datascience-2020",
+    "href": "project.html#hack2hiere-tech-datascience-2020",
     "title": "Mes Projets",
     "section": "",
     "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée."
@@ -159,12 +159,5 @@
     "title": "Events",
     "section": "",
     "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
-  },
-  {
-    "objectID": "project.html#hack2hiere-tech-datascience-2020",
-    "href": "project.html#hack2hiere-tech-datascience-2020",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée."
   }
 ]
