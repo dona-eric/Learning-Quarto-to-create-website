@@ -8,9 +8,9 @@ number-sections: false
 
 # 🚀 Projets en Data Science & Développement IA
 
-## 📊 [Hack2Hiere TechTech DataScience 2020](https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20)
+## 📊 [Hack2Hiere Tech DataScience 2020](https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20)
 
-![Hack2Hiere](img/hack2hiere.png)
+![Hack2Hiere](images/hack-tech.jpg)
 
 Exploration des données pour identifier les principales variables corrélées à l'octroi de crédit.
 Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.
@@ -21,7 +21,7 @@ Développement d’un modèle de scoring crédit permettant de prédire la proba
 
 ## 😄 [Système de Reconnaissance d'Émotions en Temps Réel](https://github.com/dona-erick/Projet-Reconnaissance-Emotion-RealTime)
 
-![Emotion Recognition](img/emotion_realtime.png)
+![Emotion Recognition](images/emotions.jpg)
 
 Ce projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.
 
@@ -31,7 +31,7 @@ Ce projet permet de détecter les émotions humaines (joie, tristesse, colère, 
 
 ## 📰 [Détection automatique de Fake News](https://github.com/dona-erick/System-detection-of-the-Fake-and-True-News)
 
-![Fake News](img/fake_news.png)
+![Fake News](images/fake-news.jpg)
 
 Développement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne.
 Prétraitement, vectorisation, modélisation et suivi via MLflow.

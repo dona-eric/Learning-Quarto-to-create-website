@@ -30,10 +30,11 @@ website:
 format:
   html:
     theme:
-      - flatly
-      - brand
+      light: flatly  # ou cosmo, yeti, etc.
+      dark: darkly
     css: styles.css
     toc: true
+    toc-depth: 3
 
 
 

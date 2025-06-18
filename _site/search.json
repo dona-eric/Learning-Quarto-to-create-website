@@ -70,6 +70,41 @@
     "text": "Vous pouvez me retrouver sur :\n\n📧 Email\n💼 LinkedIn\n🐙 GitHub\n🧠 Chaîne YouTube – DataWorld"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Vous souhaitez collaborer, me poser une question ou juste échanger ?\nN’hésitez pas à me contacter via les moyens ci-dessous :\n\n\n\nCliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :\n\n\n\nWhatsApp\n\n\n\n\n\nPhone\n\n\n\n\n\nPhone\n\n\n\n\n\n\nLinkedIn\nGitHub\nTwitter\n\n\n\n\n\n🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)\n\n\n\n\n\n\nTélécharger mon CV (PDF)"
+  },
+  {
+    "objectID": "contact.html#whatsapp",
+    "href": "contact.html#whatsapp",
+    "title": "Contact",
+    "section": "",
+    "text": "Cliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :\n\n\n\nWhatsApp\n\n\n\n\n\nPhone\n\n\n\n\n\nPhone"
+  },
+  {
+    "objectID": "contact.html#réseaux-professionnels",
+    "href": "contact.html#réseaux-professionnels",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn\nGitHub\nTwitter"
+  },
+  {
+    "objectID": "contact.html#localisation",
+    "href": "contact.html#localisation",
+    "title": "Contact",
+    "section": "",
+    "text": "🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)"
+  },
+  {
+    "objectID": "contact.html#pièces-jointes",
+    "href": "contact.html#pièces-jointes",
+    "title": "Contact",
+    "section": "",
+    "text": "Télécharger mon CV (PDF)"
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Mes Projets",
@@ -126,45 +161,10 @@
     "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "project.html#hack2hiere-tech-datascience-2020",
+    "href": "project.html#hack2hiere-tech-datascience-2020",
+    "title": "Mes Projets",
     "section": "",
-    "text": "Vous souhaitez collaborer, me poser une question ou juste échanger ?\nN’hésitez pas à me contacter via les moyens ci-dessous :\n\n\n\nCliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :\n\n\n\nMe contacter sur WhatsApp\n\n\n\n\n\n\nLinkedIn\nGitHub\nTwitter\n\n\n\n\n\n🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)\n\n\n\n\n\n\nTélécharger mon CV (PDF)"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "donaerickoulodji@gmail.com"
-  },
-  {
-    "objectID": "contact.html#réseaux-professionnels",
-    "href": "contact.html#réseaux-professionnels",
-    "title": "Contact",
-    "section": "",
-    "text": "LinkedIn\nGitHub\nTwitter"
-  },
-  {
-    "objectID": "contact.html#localisation",
-    "href": "contact.html#localisation",
-    "title": "Contact",
-    "section": "",
-    "text": "🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)"
-  },
-  {
-    "objectID": "contact.html#pièces-jointes",
-    "href": "contact.html#pièces-jointes",
-    "title": "Contact",
-    "section": "",
-    "text": "Télécharger mon CV (PDF)"
-  },
-  {
-    "objectID": "contact.html#whatsapp",
-    "href": "contact.html#whatsapp",
-    "title": "Contact",
-    "section": "",
-    "text": "Cliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :\n\n\n\nMe contacter sur WhatsApp"
+    "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée."
   }
 ]

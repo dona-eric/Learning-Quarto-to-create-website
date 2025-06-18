@@ -5,8 +5,8 @@ page-layout: full
 format: html
 ---
 
-# 👋 Hey! Je suis Eric KOULODJI.
-![Ma photo de profil](images/eric-pro.jpg){width=150px height=200px style="border-radius: 50%;"}
+# 👋 Hey ! Je suis Eric KOULODJI.
+![Ma photo de profil](images/eric-pro.jpg){width=150px height=200px style="border-radius: 50%; object-fit:cover;" }
 
 **Data Scientist Jr, Machine Learning Specialist et Développeur Django**.
 Je suis titulaire d'une Licence en **Physique Fondamentale** et **Ambassadeurs 10000Codeurs**. Passionné par l'**intelligence Artificielle**, je possède une double expertise en Physique-Chimie et en Sciences des données. Mes compétences me permettent de concevoir des solutions innovantes et efficaces, contribuant ainsi au développement technologique de l'Afrique.
