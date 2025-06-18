@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Ma photo de profil\n\n\nData Scientist Jr, Machine Learning Specialist et Développeur Django. Je suis titulaire d’une Licence en Physique Fondamentale et Ambassadeurs 10000Codeurs. Passionné par l’intelligence Artificielle, je possède une double expertise en Physique-Chimie et en Sciences des données. Mes compétences me permettent de concevoir des solutions innovantes et efficaces, contribuant ainsi au développement technologique de l’Afrique. —\n\n\nTransformez vos idées innovantes, vos projets en solutions intelligentes et fiable grace à moi ! Je suis la personne idéale qu’il vous faut.\n\n\n\n\n\n\n\n📧 Email\n💼 LinkedIn\n🐙 GitHub"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Portrait\n\n\nJe suis Éric KOULODJI, passionné par la Data Science et l’Intelligence Artificielle, avec une forte envie de mettre la technologie au service des réalités locales.\nAprès ma formation en Physique Fondamentale à l’Univeristé d’Abomey-Calavi, je me suis orienté vers la Data Science & IA pour transformer les données en solutions concrètes : analyse, automatisation et accompagnement stratégique.\n\n\n\n\n🧪 Licence en Physique Fondamentale\n🧠 Formation en Data Science & IA avec Africa TechUp Tour et Isheero\n📚 Certifications sur OpenClassrooms (Python, Data Analysis, Machine Learning…)\n🎓 Certification Coursera – Data Science Specialization\n\n\n\n\n\n\n\n📅 Octobre 2024 – aujourd’hui\nAnalyse des données environnementales pour prévoir l’évolution du NO₂ et CO₂ dans les écosystèmes verts.\n\n\n\n\n📅 Avril – Mai 2025\n- Implémentation de modèles : Régression linéaire, SVM, kMeans, Random Forest - Analyse de données textuelles et détection de sentiments via réseaux de neurones - Déploiement sur Google Cloud Platform avec surveillance active\n\n\n\n\n📅 Août – Septembre 2024\n- Extraction & analyse des avis clients - Prédiction de réservation de vol - Création d’API TripApp intégrées à une application de réservation de vol\n\n\n\n\n\n\n\n\nPython\n\n\n\n95%\n\n\nPandas / Plotly / Dash\n\n\n\n90%\n\n\nMachine Learning (Scikit-learn)\n\n\n\n88%\n\n\nDeep Learning (TensorFlow, PyTorch)\n\n\n\n80%\n\n\nNLP & LLMs\n\n\n\n85%\n\n\n\n\n\n\nDjango / Django Rest Framework\n\n\n\n90%\n\n\nFastAPI\n\n\n\n75%\n\n\nHTML / CSS / SQL\n\n\n\n75%\n\n\n\n\n\n\nGit / GitLab\n\n\n\n80%\n\n\nDocker / Kubernetes\n\n\n\n50%\n\n\nGCP / AWS / Render\n\n\n\n55%\n\n\n\n\n\n\n\nJe crois en une IA utile, éthique et contextuelle, capable de répondre aux besoins spécifiques des communautés locales — particulièrement en Afrique.\n\n“L’intelligence artificielle ne vaut que si elle résout un vrai problème humain.”\n\n\n\n\n\n\nCollaborations sur des projets à impact\nOpportunités de recherche ou de formation avancée (ex. AIMS, bourses internationales)\nPartage de connaissance via YouTube, LinkedIn ou workshops\n\n\n\n\n\nVous pouvez me retrouver sur :\n\n📧 Email\n💼 LinkedIn\n🐙 GitHub\n🧠 Chaîne YouTube – DataWorld"
-  },
-  {
-    "objectID": "index.html#avez-vous-une-idée-innovantes",
-    "href": "index.html#avez-vous-une-idée-innovantes",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Transformez vos idées innovantes"
-  },
-  {
-    "objectID": "index.html#avez-vous-une-idée-innovantes-des-p",
-    "href": "index.html#avez-vous-une-idée-innovantes-des-p",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Transformez vos idées innovantes"
-  },
-  {
-    "objectID": "index.html#avez-vous-une-idée-innovantes-des-pro",
-    "href": "index.html#avez-vous-une-idée-innovantes-des-pro",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Transformez vos idées innovantes"
-  },
-  {
-    "objectID": "index.html#avez-vous-une-idée-innovantes-des-projets",
-    "href": "index.html#avez-vous-une-idée-innovantes-des-projets",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Transformez vos idées innovantes, vos projets en solutions intelligentes et fiable grace à moi ! Je suis la personne idéale qu’il vous faut."
-  },
-  {
-    "objectID": "index.html#me-contacter",
-    "href": "index.html#me-contacter",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "📧 Email\n💼 LinkedIn\n🐙 GitHub"
   },
   {
     "objectID": "about.html#parcours-académique",
@@ -56,11 +14,18 @@
     "text": "🧪 Licence en Physique Fondamentale\n🧠 Formation en Data Science & IA avec Africa TechUp Tour et Isheero\n📚 Certifications sur OpenClassrooms (Python, Data Analysis, Machine Learning…)\n🎓 Certification Coursera – Data Science Specialization"
   },
   {
-    "objectID": "about.html#expérience-projets-clés",
-    "href": "about.html#expérience-projets-clés",
+    "objectID": "about.html#expériences-professionnelles",
+    "href": "about.html#expériences-professionnelles",
     "title": "About",
     "section": "",
-    "text": "🔬 Détection de fake news avec MLflow, NLP et pipelines supervisés\n🩺 Agent IA médical pour le Bénin (prise de rendez-vous, infos santé)\n🌾 Surveillance agricole intelligente avec vision par ordinateur\n⚡ Prévision de la demande énergétique multi-domaines"
+    "text": "📅 Octobre 2024 – aujourd’hui\nAnalyse des données environnementales pour prévoir l’évolution du NO₂ et CO₂ dans les écosystèmes verts.\n\n\n\n\n📅 Avril – Mai 2025\n- Implémentation de modèles : Régression linéaire, SVM, kMeans, Random Forest - Analyse de données textuelles et détection de sentiments via réseaux de neurones - Déploiement sur Google Cloud Platform avec surveillance active\n\n\n\n\n📅 Août – Septembre 2024\n- Extraction & analyse des avis clients - Prédiction de réservation de vol - Création d’API TripApp intégrées à une application de réservation de vol"
+  },
+  {
+    "objectID": "about.html#compétences-techniques",
+    "href": "about.html#compétences-techniques",
+    "title": "About",
+    "section": "",
+    "text": "Python\n\n\n\n95%\n\n\nPandas / Plotly / Dash\n\n\n\n90%\n\n\nMachine Learning (Scikit-learn)\n\n\n\n88%\n\n\nDeep Learning (TensorFlow, PyTorch)\n\n\n\n80%\n\n\nNLP & LLMs\n\n\n\n85%\n\n\n\n\n\n\nDjango / Django Rest Framework\n\n\n\n90%\n\n\nFastAPI\n\n\n\n75%\n\n\nHTML / CSS / SQL\n\n\n\n75%\n\n\n\n\n\n\nGit / GitLab\n\n\n\n80%\n\n\nDocker / Kubernetes\n\n\n\n50%\n\n\nGCP / AWS / Render\n\n\n\n55%"
   },
   {
     "objectID": "about.html#vision",
@@ -84,87 +49,52 @@
     "text": "Vous pouvez me retrouver sur :\n\n📧 Email\n💼 LinkedIn\n🐙 GitHub\n🧠 Chaîne YouTube – DataWorld"
   },
   {
-    "objectID": "about.html#expérience",
-    "href": "about.html#expérience",
-    "title": "About",
-    "section": "",
-    "text": "🔬 Détection de fake news avec MLflow, NLP et pipelines supervisés\n🩺 Agent IA médical pour le Bénin (prise de rendez-vous, infos santé)\n🌾 Surveillance agricole intelligente avec vision par ordinateur\n⚡ Prévision de la demande énergétique multi-domaines"
-  },
-  {
-    "objectID": "about.html#expériences-professionn",
-    "href": "about.html#expériences-professionn",
-    "title": "About",
-    "section": "",
-    "text": "🔬 Détection de fake news avec MLflow, NLP et pipelines supervisés\n🩺 Agent IA médical pour le Bénin (prise de rendez-vous, infos santé)\n🌾 Surveillance agricole intelligente avec vision par ordinateur\n⚡ Prévision de la demande énergétique multi-domaines"
-  },
-  {
-    "objectID": "about.html#expériences-professionnelles",
-    "href": "about.html#expériences-professionnelles",
-    "title": "About",
-    "section": "",
-    "text": "📅 Octobre 2024 – aujourd’hui\nAnalyse des données environnementales pour prévoir l’évolution du NO₂ et CO₂ dans les écosystèmes verts.\n\n\n\n\n📅 Avril – Mai 2025\n- Implémentation de modèles : Régression linéaire, SVM, kMeans, Random Forest - Analyse de données textuelles et détection de sentiments via réseaux de neurones - Déploiement sur Google Cloud Platform avec surveillance active\n\n\n\n\n📅 Août – Septembre 2024\n- Extraction & analyse des avis clients - Prédiction de réservation de vol - Création d’API TripApp intégrées à une application de réservation de vol"
-  },
-  {
-    "objectID": "about.html#compétences-techniques",
-    "href": "about.html#compétences-techniques",
-    "title": "About",
-    "section": "",
-    "text": "Python\n\n\n\n95%\n\n\nPandas / Plotly / Dash\n\n\n\n90%\n\n\nMachine Learning (Scikit-learn)\n\n\n\n88%\n\n\nDeep Learning (TensorFlow, PyTorch)\n\n\n\n80%\n\n\nNLP & LLMs\n\n\n\n85%\n\n\n\n\n\n\nDjango / Django Rest Framework\n\n\n\n90%\n\n\nFastAPI\n\n\n\n75%\n\n\nHTML / CSS / SQL\n\n\n\n75%\n\n\n\n\n\n\nGit / GitLab\n\n\n\n80%\n\n\nDocker / Kubernetes\n\n\n\n50%\n\n\nGCP / AWS / Render\n\n\n\n55%"
-  },
-  {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée.\n\n\n\n\n\n\n\nEmotion Recognition\n\n\nCe projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.\n📌 Tech : OpenCV, Deep Learning, CNN, Keras, Python.\n\n\n\n\n\n\n\nFake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow\n\n\n\n\n\n\n\nVentes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande.\n\n\n\n\n\n\n\nPortfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
-    "objectID": "project.html#hack2hiere-techtech-datascience-2020",
-    "href": "project.html#hack2hiere-techtech-datascience-2020",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Hack2Hiere\n\n\nExploration des données pour identifier les principales variables corrélées à l’octroi de crédit. Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.\n📌 Stack : Pandas, Scikit-learn, Matplotlib, classification supervisée."
-  },
-  {
-    "objectID": "project.html#système-de-reconnaissance-démotions-en-temps-réel",
-    "href": "project.html#système-de-reconnaissance-démotions-en-temps-réel",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Emotion Recognition\n\n\nCe projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.\n📌 Tech : OpenCV, Deep Learning, CNN, Keras, Python."
-  },
-  {
-    "objectID": "project.html#détection-automatique-de-fake-news",
-    "href": "project.html#détection-automatique-de-fake-news",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Fake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow"
-  },
-  {
-    "objectID": "project.html#gestion-des-ventes-privé",
-    "href": "project.html#gestion-des-ventes-privé",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
-  },
-  {
-    "objectID": "project.html#ce-portfolio",
-    "href": "project.html#ce-portfolio",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
     "objectID": "events.html",
     "href": "events.html",
-    "title": "Events & Vlog",
+    "title": "Events",
     "section": "",
     "text": "dsa2025\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
   },
   {
     "objectID": "events.html#participation-à-la-data-science-africa-ibadan-2025",
     "href": "events.html#participation-à-la-data-science-africa-ibadan-2025",
-    "title": "Events & Vlog",
+    "title": "Events",
     "section": "",
     "text": "dsa2025\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue",
+    "section": "",
+    "text": "Ma photo de profil\n\n\nData Scientist Jr, Machine Learning Specialist et Développeur Django. Je suis titulaire d’une Licence en Physique Fondamentale et Ambassadeurs 10000Codeurs. Passionné par l’intelligence Artificielle, je possède une double expertise en Physique-Chimie et en Sciences des données. Mes compétences me permettent de concevoir des solutions innovantes et efficaces, contribuant ainsi au développement technologique de l’Afrique. —\n\n\nTransformez vos idées innovantes, vos projets en solutions intelligentes et fiable grace à moi ! Je suis la personne idéale qu’il vous faut.\n\n\n\n\n\n\n\n📧 Email\n💼 LinkedIn\n🐙 GitHub"
+  },
+  {
+    "objectID": "index.html#avez-vous-une-idée-innovantes-des-projets",
+    "href": "index.html#avez-vous-une-idée-innovantes-des-projets",
+    "title": "Bienvenue",
+    "section": "",
+    "text": "Transformez vos idées innovantes, vos projets en solutions intelligentes et fiable grace à moi ! Je suis la personne idéale qu’il vous faut."
+  },
+  {
+    "objectID": "index.html#me-contacter",
+    "href": "index.html#me-contacter",
+    "title": "Bienvenue",
+    "section": "",
+    "text": "📧 Email\n💼 LinkedIn\n🐙 GitHub"
+  },
+  {
+    "objectID": "event.html",
+    "href": "event.html",
+    "title": "Events",
+    "section": "",
+    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
+  },
+  {
+    "objectID": "event.html#participation-à-la-data-science-africa-ibadan-2025",
+    "href": "event.html#participation-à-la-data-science-africa-ibadan-2025",
+    "title": "Events",
+    "section": "",
+    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
   }
 ]

@@ -13,7 +13,7 @@ website:
         text: Projects
       - href: contact.qmd
         text: Contacts
-      - href: events.qmd
+      - href: event.qmd
         text: Events & Vlog
 
     rigth:
