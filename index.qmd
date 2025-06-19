@@ -6,22 +6,32 @@ format: html
 ---
 
 # 👋 Hey ! Je suis Eric KOULODJI.
-![Ma photo de profil](images/eric-pro.jpg){width=150px height=200px style="border-radius: 50%; object-fit:cover;" }
+![Ma photo de profil](images/eric-pro.jpg){.rounded-photo}
 
 **Data Scientist Jr, Machine Learning Specialist et Développeur Django**.
 Je suis titulaire d'une Licence en **Physique Fondamentale** et **Ambassadeurs 10000Codeurs**. Passionné par l'**intelligence Artificielle**, je possède une double expertise en Physique-Chimie et en Sciences des données. Mes compétences me permettent de concevoir des solutions innovantes et efficaces, contribuant ainsi au développement technologique de l'Afrique.
+
 ---
 
 ## Avez-vous une idée innovantes, des projets ?
 
-Transformez vos idées innovantes, vos projets en solutions intelligentes et fiable grace à moi ! Je suis
-la personne idéale qu'il vous faut.
+🎯 Je transforme vos idées en solutions intelligentes, durables et prêtes pour le terrain. Allions expertise technique et impact social !
 
+Vous cherchez un profil jeune, motivé, rigoureux, capable de livrer un projet Data Science et d'intelligent artificielle de bout en bout ? Parlons-en !
 
 ## Let's connect together !!!
 
+Vous avez une idée, un projet, un défi à relever ?  
+**Je suis la personne qu’il vous faut.**
+
+---
+
 ## 📬 Me contacter
 
-- 📧 [Email](mailto:donaerickoulodji@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/dona-erick)
-- 🐙 [GitHub](https://github.com/dona-eric)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/dona-erick)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge)](https://github.com/dona-eric)
+[![Email](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](mailto:donaerickoulodji@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?style=for-the-badge)](https://wa.me/2290151344289)
+
+
+> “L’Intelligence Artificielle ne doit pas rester un luxe, mais devenir une solution locale et accessible.”

@@ -6,34 +6,48 @@ page-layout: full
 
 # 📬 Me Contacter
 
-Vous souhaitez collaborer, me poser une question ou juste échanger ?  
-N’hésitez pas à me contacter via les moyens ci-dessous :
+Vous souhaitez **collaborer**, poser une question, ou simplement échanger ?  
+N'hésitez pas à me contacter via les moyens ci-dessous. Je suis **disponible pour des missions à distance ou en présentiel**.
 
 ---
 
 ## 💬 WhatsApp
 
-Cliquez sur le bouton ci-dessous pour démarrer une conversation WhatsApp :
+Démarrez une conversation directe avec moi :
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?logo=whatsapp&style=for-the-badge)](https://wa.me/2290151344289)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2290151344289)
 
-[![Phone](https://img.shields.io/badge/📞%20Appeler-229%2001%2051%2034%2042%2089-2c3e50?style=for-the-badge&logo=phone&logoColor=white&labelColor=1abc9c)](tel:+2290151344289)
+---
 
-[![Phone](https://img.shields.io/badge/📞%20Appeler-229%2001%2041%2073%2002%2040-2c3e50?style=for-the-badge&logo=phone&logoColor=green&labelColor=1abc9c)](tel:+2290141730240)
+## 📞 Téléphone
 
+**Appelez-moi directement :**
+
+[![Téléphone](https://img.shields.io/badge/📱%20Téléphone-Contact-green?style=for-the-badge&logo=phone)](tel:+2290151344289)
+
+---
 
 ## 💼 Réseaux professionnels
 
-- [LinkedIn](https://www.linkedin.com/in/dona-erick)
-- [GitHub](https://github.com/dona-eric)
-- [Twitter](https://twitter.com/Ericschrodinger)
+Connectons-nous sur mes profils techniques et pro :
+
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona-erick)  
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/dona-eric)  
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Connect-blue?style=for-the-badge&logo=twitter)](https://twitter.com/EricSchrodinger)
+
+---
 
 ## 📍 Localisation
 
-- 🇧🇯 Cotonou, Bénin (disponible pour projets à distance ou en présentiel)
+📌 **Cotonou, Bénin**  
+📡 Ouvert aux projets **à distance ou sur site**
 
 ---
 
 ## 🗂 Pièces jointes
 
-- [Télécharger mon CV (PDF)](files/cv_eric.pdf)
+[![CV PDF](https://img.shields.io/badge/📄%20Mon%20CV-Télécharger-blue?style=for-the-badge&logo=adobeacrobatreader)](images/CV%20TECH%20ERIC.pdf)
+
+---
+
+> "Open to Work"

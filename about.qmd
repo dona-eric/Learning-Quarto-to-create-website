@@ -6,7 +6,7 @@ page-layout: full
 
 # 👤 À propos de moi
 
-![Portrait](images/Eric-2.JPG){width=190px style="border-radius: 50%; float: right; margin-left: 20px;"}
+![Portrait](images/Eric-2.JPG){.rounded-photo}
 
 Je suis **Éric KOULODJI**, passionné par la **Data Science** et l’**Intelligence Artificielle**, avec une forte envie de mettre la technologie au service des réalités locales.
 
@@ -142,8 +142,7 @@ Je crois en une **IA utile, éthique et contextuelle**, capable de répondre aux
 Vous pouvez me retrouver sur :
 
 
-- 📧 [Email](mailto:donaerickoulodji@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/dona-erick)
-- 🐙 [GitHub](https://github.com/dona-eric)
-- 🧠 [Chaîne YouTube – DataWorld](https://www.youtube.com/@data-world-o4u)
-
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/dona-erick)
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge)](https://github.com/dona-eric)
+[![Email](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](mailto:donaerickoulodji@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?style=for-the-badge)](https://wa.me/2290151344289)

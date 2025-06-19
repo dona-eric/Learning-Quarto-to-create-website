@@ -8,7 +8,7 @@ page-layout: full
 
 ## 🌍 Participation à la Data Science Africa – Ibadan 2025
 
-![DSA2025-IBADAN](images/Eric-1.JPG){width=150px height=200px style="border-radius: 50%;"}
+![DSA2025-IBADAN](images/Eric-1.JPG){.rounded-photo}
 
 J'ai pris part à la **Summer School & Workshop of Data Science Africa (DSA)** à **Ibadan**, où j’ai approfondi mes compétences en :
 

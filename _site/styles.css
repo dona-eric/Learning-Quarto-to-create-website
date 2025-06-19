@@ -1,7 +1,7 @@
-/* css styles */
+/* Navbar custom */
 .navbar {
-  background-color: #2c3e50 !important; /* bleu nuit */
-  border-bottom: 3px solid #1abc9c;     /* ligne fine turquoise */
+  background-color: #2c3e50 !important;
+  border-bottom: 3px solid #1abc9c;
 }
 
 .navbar-brand, .navbar-nav .nav-link {
@@ -11,14 +11,19 @@
 
 .navbar-brand:hover,
 .navbar-nav .nav-link:hover {
-  color: #1abc9c !important; /* effet au survol */
+  color: #1abc9c !important;
 }
 
+/* Fond et texte global */
 body {
-  font-family: 'FreeSerif' Regular Italic;
-  color: #333;
-  background-color:lightgoldenrodyellow;
-
+  font-family: 'Inter, FreeSerif Regular Italic';
+  background: linear-gradient(
+    135deg,
+    rgba(240, 240, 255, 0.9),
+    rgba(220, 220, 240, 0.9)
+  );
+  color: #1a1a1a;
+  text-decoration: none;
 }
 
 h1, h2, h3 {
@@ -28,5 +33,34 @@ h1, h2, h3 {
 
 a {
   color: #1abc9c;
-  text-underline-position: auto;
+  text-decoration: none;
+}
+
+/* Photo de profil */
+.rounded-photo {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  display: block;
+  margin: 0 auto;
+}
+
+.projet-photo {
+  width: 500px;
+  height: 500px;
+  object-fit:contain;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+/* Zone de contenu principale */
+main.content {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  max-width: 960px;
+  margin: auto;
 }

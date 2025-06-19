@@ -10,7 +10,7 @@ number-sections: false
 
 ## 📊 [Hack2Hiere Tech DataScience 2020](https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20)
 
-![Hack2Hiere](images/hack-tech.jpg)
+![Hack2Hiere](images/hack-tech.jpg){.projet-photo}
 
 Exploration des données pour identifier les principales variables corrélées à l'octroi de crédit.
 Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.
@@ -21,7 +21,8 @@ Développement d’un modèle de scoring crédit permettant de prédire la proba
 
 ## 😄 [Système de Reconnaissance d'Émotions en Temps Réel](https://github.com/dona-erick/Projet-Reconnaissance-Emotion-RealTime)
 
-![Emotion Recognition](images/emotions.jpg)
+![Emotion Recognition](images/emotions.jpg){.projet-photo}
+
 
 Ce projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.
 
@@ -31,7 +32,8 @@ Ce projet permet de détecter les émotions humaines (joie, tristesse, colère, 
 
 ## 📰 [Détection automatique de Fake News](https://github.com/dona-erick/System-detection-of-the-Fake-and-True-News)
 
-![Fake News](images/fake-news.jpg)
+![Fake News](images/fake-news.jpg){.projet-photo}
+
 
 Développement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne.
 Prétraitement, vectorisation, modélisation et suivi via MLflow.
@@ -40,22 +42,30 @@ Prétraitement, vectorisation, modélisation et suivi via MLflow.
 
 ---
 
-## 🛒 Gestion des ventes (privé)
+## 🛒 API de Gestion de Ventes d'articles téléphoniques
 
-![Ventes](img/gestion_ventes.png)
+![Ventes](images/ventes.png){.projet-photo}
 
-Application interne de gestion des ventes et des stocks pour un propriétaire de boutique.
-Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.
+Développement des versions stables d'api intégrée à Flutter qui permet à une boutique de ventes d'articles d'ajouter, modifier et de suivre en temps réel ses ventes. Un dashboard dynamique est mit en plus pour suivre de façon régulière et analytique ses articles .
 
-📌 **Stack** : Django, SQLite, Bootstrap, HTML/CSS, Python
+📌 **Stack** : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter
 
-🔒 **Repo privé** : Disponible sur demande.
+🔒 **Code Source** : [API](https://github.com/dona-eric/Gestion-des-ventes)
+
+
+## [OnlineCourse(Coursera)](https://github.com/dona-eric/course-repo-coursera)
+
+![coursera-architect](images/onlinecourse_app.png){.projet-photo}
+
+OnlineCourse est une application  qui a déjà été fournie dans ce référentiel sur laquelle j'ai contribué en ajoutant une nouvelle fonctionnalité d'évaluation. J'ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network .
+
 
 ---
 
-## 🌐 Ce Portfolio
+## 🌐 Mon Portfolio
 
-![Portfolio](img/portfolio.png)
+![Portfolio](images/portfolio.png){.projet-photo}
+
 
 Portfolio personnel développé avec **Quarto**, pour centraliser mes projets, expériences, compétences et participations.
 
