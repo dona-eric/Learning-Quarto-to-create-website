@@ -2,7 +2,10 @@ project:
   type: website
 
 website:
+  favicon: images/eric-pro.jpg
   title: "Dona Eric KOULODJI"
+  page-footer: 
+    center: "© 2025 Éric KOULODJI — Tous droits réservés"
   navbar:
     left:
       - href: index.qmd
