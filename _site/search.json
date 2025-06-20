@@ -14,6 +14,13 @@
     "text": "🎯 Je transforme vos idées en solutions intelligentes, durables et prêtes pour le terrain. Allions expertise technique et impact social !\nVous cherchez un profil jeune, motivé, rigoureux, capable de livrer un projet Data Science et d’intelligent artificielle de bout en bout ? Parlons-en !"
   },
   {
+    "objectID": "index.html#lets-connect-together",
+    "href": "index.html#lets-connect-together",
+    "title": "Bienvenue",
+    "section": "",
+    "text": "Vous avez une idée, un projet, un défi à relever ?\nJe suis la personne qu’il vous faut."
+  },
+  {
     "objectID": "index.html#me-contacter",
     "href": "index.html#me-contacter",
     "title": "Bienvenue",
@@ -84,6 +91,13 @@
     "text": "Démarrez une conversation directe avec moi :\n\n\n\nWhatsApp"
   },
   {
+    "objectID": "contact.html#téléphone",
+    "href": "contact.html#téléphone",
+    "title": "Contact",
+    "section": "",
+    "text": "Appelez-moi directement :\n\n\n\nTéléphone"
+  },
+  {
     "objectID": "contact.html#réseaux-professionnels",
     "href": "contact.html#réseaux-professionnels",
     "title": "Contact",
@@ -133,15 +147,22 @@
     "text": "Fake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow"
   },
   {
-    "objectID": "project.html#gestion-des-ventes-privé",
-    "href": "project.html#gestion-des-ventes-privé",
+    "objectID": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
+    "href": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
     "title": "Mes Projets",
     "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
+    "text": "Ventes\n\n\nDéveloppement des versions stables d’api intégrée à Flutter qui permet à une boutique de ventes d’articles d’ajouter, modifier et de suivre en temps réel ses ventes. Un dashboard dynamique est mit en plus pour suivre de façon régulière et analytique ses articles .\n📌 Stack : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter\n🔒 Code Source : API"
   },
   {
-    "objectID": "project.html#ce-portfolio",
-    "href": "project.html#ce-portfolio",
+    "objectID": "project.html#onlinecoursecoursera",
+    "href": "project.html#onlinecoursecoursera",
+    "title": "Mes Projets",
+    "section": "",
+    "text": "coursera-architect\n\n\nOnlineCourse est une application qui a déjà été fournie dans ce référentiel sur laquelle j’ai contribué en ajoutant une nouvelle fonctionnalité d’évaluation. J’ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network ."
+  },
+  {
+    "objectID": "project.html#mon-portfolio",
+    "href": "project.html#mon-portfolio",
     "title": "Mes Projets",
     "section": "",
     "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
@@ -159,96 +180,5 @@
     "title": "Events",
     "section": "",
     "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
-  },
-  {
-    "objectID": "project.html#portfolio",
-    "href": "project.html#portfolio",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
-    "objectID": "project.html#monportfolio",
-    "href": "project.html#monportfolio",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
-    "objectID": "project.html#mon-portfolio",
-    "href": "project.html#mon-portfolio",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
-    "objectID": "project.html#section",
-    "href": "project.html#section",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Fake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow"
-  },
-  {
-    "objectID": "project.html#api",
-    "href": "project.html#api",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
-  },
-  {
-    "objectID": "project.html#api-de-g",
-    "href": "project.html#api-de-g",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
-  },
-  {
-    "objectID": "project.html#api-de-gs",
-    "href": "project.html#api-de-gs",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
-  },
-  {
-    "objectID": "project.html#api-de-gestion-de-ventes-darticles-t",
-    "href": "project.html#api-de-gestion-de-ventes-darticles-t",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nApplication interne de gestion des ventes et des stocks pour un propriétaire de boutique. Permet de suivre en temps réel les ventes, gérer le stock, et superviser l’activité des vendeurs.\n📌 Stack : Django, SQLite, Bootstrap, HTML/CSS, Python\n🔒 Repo privé : Disponible sur demande."
-  },
-  {
-    "objectID": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
-    "href": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nDéveloppement des versions stables d’api intégrée à Flutter qui permet à une boutique de ventes d’articles d’ajouter, modifier et de suivre en temps réel ses ventes. Un dashboard dynamique est mit en plus pour suivre de façon régulière et analytique ses articles .\n📌 Stack : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter\n🔒 Code Source : API"
-  },
-  {
-    "objectID": "project.html#onlinecoursecoursera",
-    "href": "project.html#onlinecoursecoursera",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "coursera-architect\n\n\nOnlineCourse est une application qui a déjà été fournie dans ce référentiel sur laquelle j’ai contribué en ajoutant une nouvelle fonctionnalité d’évaluation. J’ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network ."
-  },
-  {
-    "objectID": "project.html#onlinecoursecourserahttpsgithub.comdona-ericcourse-repo-coursera",
-    "href": "project.html#onlinecoursecourserahttpsgithub.comdona-ericcourse-repo-coursera",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "OnlineCourse est une application qui a déjà été fournie dans ce référentiel sur laquelle j’ai contribué en ajoutant une nouvelle fonctionnalité d’évaluation. J’ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network ."
-  },
-  {
-    "objectID": "index.html#lets-connect-together",
-    "href": "index.html#lets-connect-together",
-    "title": "Bienvenue",
-    "section": "",
-    "text": "Vous avez une idée, un projet, un défi à relever ?\nJe suis la personne qu’il vous faut."
-  },
-  {
-    "objectID": "contact.html#téléphone",
-    "href": "contact.html#téléphone",
-    "title": "Contact",
-    "section": "",
-    "text": "Appelez-moi directement :\n\n\n\nTéléphone"
   }
 ]
