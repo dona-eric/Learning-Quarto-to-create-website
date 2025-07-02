@@ -33,5 +33,8 @@ Vous avez une idée, un projet, un défi à relever ?
 [![Email](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](mailto:donaerickoulodji@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?style=for-the-badge)](https://wa.me/2290151344289)
 
+::: {.counter style="text-align:right; font-size: 0.9em; margin-top:1em;"}
+![Hit counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftonportfolio.com&count_bg=%237A8EE4&title_bg=%23000000&icon=eye.svg&icon_color=%23ffffff&title=visits&edge_flat=false)
+:::
 
 > “L’Intelligence Artificielle ne doit pas rester un luxe, mais devenir une solution locale et accessible.”
