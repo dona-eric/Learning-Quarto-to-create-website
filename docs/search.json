@@ -133,55 +133,6 @@
     "text": "📊 Hack2Hiere Tech DataScience 2020\n\n\n\n\n\n🎯 Scoring de Crédit Intelligent\nExploration approfondie des données pour identifier les variables clés corrélées à l’octroi de crédit. Développement d’un modèle de scoring permettant de prédire la probabilité d’acceptation avec une précision élevée.\n\n🛠 Stack Technique : Pandas, Scikit-learn, Matplotlib, Classification supervisée\n\n\nCode Source Demo"
   },
   {
-    "objectID": "project.html#système-de-reconnaissance-démotions-en-temps-réel",
-    "href": "project.html#système-de-reconnaissance-démotions-en-temps-réel",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Emotion Recognition\n\n\nCe projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.\n📌 Tech : OpenCV, Deep Learning, CNN, Keras, Python."
-  },
-  {
-    "objectID": "project.html#détection-automatique-de-fake-news",
-    "href": "project.html#détection-automatique-de-fake-news",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Fake News\n\n\nDéveloppement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne. Prétraitement, vectorisation, modélisation et suivi via MLflow.\n📌 Tech : NLP, TF-IDF, SVM, RandomForest, MLflow"
-  },
-  {
-    "objectID": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
-    "href": "project.html#api-de-gestion-de-ventes-darticles-téléphoniques",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Ventes\n\n\nDéveloppement des versions stables d’api intégrée à Flutter qui permet à une boutique de ventes d’articles d’ajouter, modifier et de suivre en temps réel ses ventes. Un dashboard dynamique est mit en plus pour suivre de façon régulière et analytique ses articles .\n📌 Stack : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter\n🔒 Code Source : API"
-  },
-  {
-    "objectID": "project.html#onlinecoursecoursera",
-    "href": "project.html#onlinecoursecoursera",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "coursera-architect\n\n\nOnlineCourse est une application qui a déjà été fournie dans ce référentiel sur laquelle j’ai contribué en ajoutant une nouvelle fonctionnalité d’évaluation. J’ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network ."
-  },
-  {
-    "objectID": "project.html#mon-portfolio",
-    "href": "project.html#mon-portfolio",
-    "title": "Mes Projets",
-    "section": "",
-    "text": "Portfolio\n\n\nPortfolio personnel développé avec Quarto, pour centraliser mes projets, expériences, compétences et participations.\n📌 Tech : Quarto, HTML, CSS, GitHub Pages 🔗 Voir le code source\n\n📬 Pour toute collaboration ou question technique, contactez-moi via LinkedIn ou directement dans la section Contact du site.\n\n✨ D’autres projets sont en cours de développement… restez connectés !"
-  },
-  {
-    "objectID": "event.html",
-    "href": "event.html",
-    "title": "Events",
-    "section": "",
-    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
-  },
-  {
-    "objectID": "event.html#participation-à-la-data-science-africa-ibadan-2025",
-    "href": "event.html#participation-à-la-data-science-africa-ibadan-2025",
-    "title": "Events",
-    "section": "",
-    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
-  },
-  {
     "objectID": "project.html#système-de-reconnaissance-démotions",
     "href": "project.html#système-de-reconnaissance-démotions",
     "title": "Mes Projets",
@@ -229,5 +180,19 @@
     "title": "Mes Projets",
     "section": "🤝 Collaboration & Contact",
     "text": "🤝 Collaboration & Contact\nIntéressé par un projet ? Une question technique ? Contactez-moi !\n\n💼 LinkedIn 📧 Email 📱 Contact Direct"
+  },
+  {
+    "objectID": "event.html",
+    "href": "event.html",
+    "title": "Events",
+    "section": "",
+    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
+  },
+  {
+    "objectID": "event.html#participation-à-la-data-science-africa-ibadan-2025",
+    "href": "event.html#participation-à-la-data-science-africa-ibadan-2025",
+    "title": "Events",
+    "section": "",
+    "text": "DSA2025-IBADAN\n\n\nJ’ai pris part à la Summer School & Workshop of Data Science Africa (DSA) à Ibadan, où j’ai approfondi mes compétences en :\n\nNatural Language Processing(NLP) et les Larges Languages Models\nFederated Learning and Machine Learning\nQuarto (présentations, publications, sites web scientifiques)\nÉthique et IA pour le développement africain\n\nCe fut une semaine intense de conférences, coding labs, et networking avec des chercheurs et praticiens africains de l’IA."
   }
 ]
