@@ -7,10 +7,14 @@
     "index.pptx": "ff1aae86"
   },
   "contact.qmd": {
-    "contact.html": "60e30d39"
+    "contact.html": "60e30d39",
+    "contact.md": "e721e8fe"
   },
   "project.qmd": {
-    "project.html": "1ab86975"
+    "project.html": "1ab86975",
+    "project.csl": "43c9b999",
+    "project.tex": "e99cb3ae",
+    "project.haddock": "5b573e8e"
   },
   "events.qmd": {
     "events.html": "55a2a1e5"

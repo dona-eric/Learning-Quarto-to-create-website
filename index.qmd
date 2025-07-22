@@ -1,23 +1,28 @@
 ---
-title: "Bienvenue"
+title: Dona Eric KOULODJI
 images : images/eric-2-ro.jpg
 page-layout: full
 format: html
+
 ---
 
 # 👋 Hey ! Je suis Eric KOULODJI.
 ![Ma photo de profil](images/eric-pro.jpg){.rounded-photo}
 
-**Data Scientist Jr, Machine Learning Specialist et Développeur Django**.
-Je suis titulaire d'une Licence en **Physique Fondamentale** et **Ambassadeurs 10000Codeurs**. Passionné par l'**intelligence Artificielle**, je possède une double expertise en Physique-Chimie et en Sciences des données. Mes compétences me permettent de concevoir des solutions innovantes et efficaces, contribuant ainsi au développement technologique de l'Afrique.
+**Data Scientist Jr, Machine Learning Engineer et Développeur Django**.
+Je suis titulaire d'une Licence en **Physique Fondamentale** et **Ambassadeurs 10000Codeurs**.
+Passionné par la transformation de données brutes en solutions intelligentes, je mets ma double expertise en **Physique Fondamentale** et **Sciences des Données** au service de projets innovants. 
+
+## Mon objectif : 
+Créer  et concevoir des technologies d'intelligence artificielle qui ont un impact durable et accessible, notamment pour le développement de l'Afrique. 
 
 ---
 
-## Avez-vous une idée innovantes, des projets ?
+ **Prêt à transformer une idée en réalité ? Discutons-en.**?
 
 🎯 Je transforme vos idées en solutions intelligentes, durables et prêtes pour le terrain. Allions expertise technique et impact social !
 
-Vous cherchez un profil jeune, motivé, rigoureux, capable de livrer un projet Data Science et d'intelligent artificielle de bout en bout ? Parlons-en !
+Vous cherchez un profil jeune, motivé, rigoureux, capable de travailler un projet Data Science et d'intelligence artificielle de bout en bout ? Parlons-en !
 
 ## Let's connect together !!!
 
@@ -28,13 +33,18 @@ Vous avez une idée, un projet, un défi à relever ?
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/dona-erick)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge)](https://github.com/dona-eric)
-[![Email](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](mailto:donaerickoulodji@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?style=for-the-badge)](https://wa.me/2290151344289)
+::: {.contact-cta}
+Prêt à collaborer sur un projet innovant ? Discutons de vos défis data !
 
-::: {.counter style="text-align:right; font-size: 0.9em; margin-top:1em;"}
-![Hit counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftonportfolio.com&count_bg=%237A8EE4&title_bg=%23000000&icon=eye.svg&icon_color=%23ffffff&title=visits&edge_flat=false)
+::: {.social-links-about}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-erick)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dona-eric)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donaerickoulodji@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290151344289)
+:::
 :::
 
+
 > “L’Intelligence Artificielle ne doit pas rester un luxe, mais devenir une solution locale et accessible.”
+
+Que vous ayez un projet à réaliser, un défi technique à relever ou simplement envie de discuter de l'impact de l'IA, n'hésitez pas à me contacter

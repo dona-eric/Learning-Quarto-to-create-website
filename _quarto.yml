@@ -1,13 +1,14 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   favicon: images/eric-pro.jpg
-  title: "Dona Eric KOULODJI"
+  title: "Data Scientist & Machine Learning Engineer"
   google-analytics: "G-KXW8KRW3V1"
-  page-footer: 
-    center: "© 2025 Éric KOULODJI — Tous droits réservés"
   navbar:
+    background: primary
+    foreground: light
     left:
       - href: index.qmd
         text: Home
@@ -31,14 +32,35 @@ website:
         href : https://www.facebook.com/eric.koulodji
       - icon : Medium
         href : https://www.medium.com/@koulodjiric
+
+  sidebar:
+    style: "docked"
+    search: true
+
+  page-footer:
+    left:
+      © 2025 Eric KOULODJI - Data Scientist & ML Engineer
+    center:
+      Créé avec [Quarto](https://quarto.org)
+    right:
+      [🇧🇯 Abomey-Calavi, Bénin]
 format:
   html:
-    theme:
-      light: flatly # ou cosmo, yeti, etc.
-      dark: darkly
+    theme: 
+      light: [cosmo, styles.css]
+      dark: [slate, styles.css]
     css: styles.css
     toc: true
     toc-depth: 3
+    toc-location: right
+    number-sections: false
+    highlight-style: github
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+      
+execute:
+  freeze: auto
 
 
 

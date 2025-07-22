@@ -1,148 +1,250 @@
 ---
-title: "About"
-format: html
+title: "À propos"
+subtitle: "Mon parcours & ma vision"
+image: images/Eric-2.JPG
 page-layout: full
+format: 
+  html:
+    css: styles.css
+    toc: true
+    toc-depth: 3
 ---
 
+::: {.about-hero}
+::: {.about-content}
 # 👤 À propos de moi
 
-![Portrait](images/Eric-2.JPG){.rounded-photo}
+::: {.profile-section}
+![](images/Eric-2.JPG){.about-profile-image}
 
-Je suis **Éric KOULODJI**, passionné par la **Data Science** et l’**Intelligence Artificielle**, avec une forte envie de mettre la technologie au service des réalités locales.
+Je suis **Éric KOULODJI**, passionné par la **Data Science** et l'**Intelligence Artificielle**, avec une forte envie de mettre la technologie au service des réalités locales.
 
-Après ma formation en **Physique Fondamentale** à l'Univeristé d'Abomey-Calavi, je me suis orienté vers la Data Science & IA pour transformer les données en solutions concrètes : analyse, automatisation et accompagnement stratégique.
-
----
-
-## 🎓 Parcours académique
-
-- 🧪 Licence en **Physique Fondamentale**
-- 🧠 Formation en **Data Science & IA** avec **Africa TechUp Tour** et **Isheero**
-- 📚 Certifications sur **OpenClassrooms** (Python, Data Analysis, Machine Learning…)
-- 🎓 Certification  **Coursera – Data Science Specialization**
+Après ma formation en **Physique Fondamentale** à l'Université d'Abomey-Calavi, je me suis orienté vers la Data Science & IA pour transformer les données en solutions concrètes : analyse, automatisation et accompagnement stratégique.
+:::
+:::
+:::
 
 ---
 
-## 💼 Expériences Professionnelles
+## 🎓 Formation & Certifications
 
-#### 👨‍💻 Data Scientist & Développeur ML – *NerdX Digital*  
-📅 Octobre 2024 – aujourd’hui  
-Analyse des données environnementales pour prévoir l’évolution du **NO₂** et **CO₂** dans les écosystèmes verts.
+::: {.education-grid}
+::: {.education-card}
+**🎓 Ingénieur Machine Learning & Cloud**  
+*DataCamp/Isheero*  
+Certification avancée
+:::
+
+::: {.education-card}
+**🎓 Data Science & IA**  
+*Africa TechUp Tour & Isheero*  
+Formation intensive
+:::
+
+::: {.education-card}
+**🎓 Data Science Specialization**  
+*Coursera*  
+Spécialisation complète
+:::
+
+::: {.education-card}
+**🎓 Licence Physique Fondamentale**  
+*Université d'Abomey-Calavi*  
+Base scientifique solide
+:::
+
+::: {.education-card}
+**🎓 Certifications Python & ML**  
+*OpenClassrooms*  
+Compétences pratiques
+:::
+:::
 
 ---
 
-#### 🧠 Machine Learning Intern – *Codveda Technologies*  
-📅 Avril – Mai 2025  
-- Implémentation de modèles : **Régression linéaire, SVM, kMeans, Random Forest**
+## 💼 Expérience Professionnelle
+
+::: {.experience-timeline}
+::: {.experience-item current}
+### Data Developer
+**Agence Spatiale Française** | *Juillet 2025*
+
+*Poste actuel - Développement de solutions data pour le secteur spatial*
+:::
+
+::: {.experience-item}
+### Data Scientist & Développeur ML
+**NerdX Digital** | *Octobre - Décembre 2024*
+
+Analyse des données environnementales pour prévoir l'évolution du **NO₂** et **CO₂** dans les écosystèmes verts. Développement de modèles prédictifs pour l'environnement.
+:::
+
+::: {.experience-item}
+### Machine Learning Intern
+**Codveda Technologies** | *Avril - Mai 2025*
+
+- Implémentation de modèles : **Régression linéaire, SVM, k-Means, Random Forest**
 - Analyse de **données textuelles** et détection de sentiments via réseaux de neurones
 - **Déploiement sur Google Cloud Platform** avec surveillance active
+:::
 
----
+::: {.experience-item}
+### Data Scientist Intern
+**British Airways** | *Août - Septembre 2024*
 
-#### ✈️ Data Scientist Intern – *British Airways*  
-📅 Août – Septembre 2024  
 - Extraction & analyse des **avis clients**
-- Prédiction de **réservation de vol**
-- Création d'**API TripApp** intégrées à une application de réservation de vol
+- Prédiction de **réservations de vol**
+- Création d'**API TripApp** intégrées à une application de réservation
+:::
+:::
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences Techniques
 
+### Data Science & Machine Learning
 
-<div style="max-width: 700px;">
+::: {.skills-section}
+::: {.skill-item}
+**Python** <span class="skill-level">95%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 95%; background: #4caf50;"></div>
+:::
+:::
 
-#### 📊 Data Science & Machine Learning
+::: {.skill-item}
+**Pandas / Plotly / Dash** <span class="skill-level">90%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 90%; background: #4caf50;"></div>
+:::
+:::
 
-**Python**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 95%; background-color: #4caf50; padding: 5px; border-radius: 5px; color: white;">95%</div>
-</div>
+::: {.skill-item}
+**Machine Learning (Scikit-learn)** <span class="skill-level">88%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 88%; background: #2196f3;"></div>
+:::
+:::
 
-**Pandas / Plotly / Dash**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 90%; background-color: #4caf50; padding: 5px; border-radius: 5px; color: white;">90%</div>
-</div>
+::: {.skill-item}
+**Deep Learning (TensorFlow, PyTorch)** <span class="skill-level">80%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 80%; background: #ff9800;"></div>
+:::
+:::
 
-**Machine Learning (Scikit-learn)**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 88%; background-color: #2196f3; padding: 5px; border-radius: 5px; color: white;">88%</div>
-</div>
+::: {.skill-item}
+**NLP & LLMs** <span class="skill-level">85%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 85%; background: #673ab7;"></div>
+:::
+:::
+:::
 
-**Deep Learning (TensorFlow, PyTorch)**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 80%; background-color: #ff9800; padding: 5px; border-radius: 5px; color: white;">80%</div>
-</div>
+### 🌐 Développement Web
 
-**NLP & LLMs**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 85%; background-color: #673ab7; padding: 5px; border-radius: 5px; color: white;">85%</div>
-</div>
+::: {.skills-section}
+::: {.skill-item}
+**Django / Django Rest Framework** <span class="skill-level">90%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 90%; background: #3f51b5;"></div>
+:::
+:::
+
+::: {.skill-item}
+**FastAPI** <span class="skill-level">75%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 75%; background: #03a9f4;"></div>
+:::
+:::
+
+::: {.skill-item}
+**HTML / CSS / SQL** <span class="skill-level">85%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 85%; background: #00bcd4;"></div>
+:::
+:::
+:::
+
+### 🧰 Outils & Cloud
+
+::: {.skills-section}
+::: {.skill-item}
+**Git / GitLab** <span class="skill-level">92%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 92%; background: #795548;"></div>
+:::
+:::
+
+::: {.skill-item}
+**Docker / Kubernetes** <span class="skill-level">75%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 75%; background: #607d8b;"></div>
+:::
+:::
+
+::: {.skill-item}
+**GCP / AWS / Render** <span class="skill-level">80%</span>
+::: {.skill-bar}
+<div class="skill-progress" style="width: 80%; background: #009688;"></div>
+:::
+:::
+:::
 
 ---
 
-#### 🌐 Développement Web
+## 🌍 Ma Vision
 
-**Django / Django Rest Framework**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 90%; background-color: #3f51b5; padding: 5px; border-radius: 5px; color: white;">90%</div>
-</div>
+::: {.vision-section}
+Je crois en une **IA utile, éthique et contextuelle**, capable de répondre aux besoins spécifiques des communautés locales, particulièrement en Afrique.
 
-**FastAPI**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 75%; background-color: #03a9f4; padding: 5px; border-radius: 5px; color: white;">75%</div>
-</div>
+> "L'intelligence artificielle ne vaut que si elle résout un vrai problème humain."
 
-**HTML / CSS / SQL**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 85%; background-color: #00bcd4; padding: 5px; border-radius: 5px; color: white;">75%</div>
-</div>
+::: {.values-grid}
+::: {.value-card}
+**🎯 Impact Local**  
+Solutions adaptées aux réalités africaines
+:::
 
----
+::: {.value-card}
+**🤝 Éthique**  
+IA responsable et transparente
+:::
 
-#### 🧰 Outils & Cloud
+::: {.value-card}
+**🌱 Durabilité**  
+Technologie au service du développement
+:::
 
-**Git / GitLab**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 92%; background-color: #795548; padding: 5px; border-radius: 5px; color: white;">80%</div>
-</div>
-
-**Docker / Kubernetes**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 75%; background-color: #607d8b; padding: 5px; border-radius: 5px; color: white;">50%</div>
-</div>
-
-**GCP / AWS / Render**  
-<div style="background-color: #e0e0e0; border-radius: 5px;">
-  <div style="width: 80%; background-color: #009688; padding: 5px; border-radius: 5px; color: white;">55%</div>
-</div>
-
-</div>
-
-
-
-## 🌍 Vision
-
-Je crois en une **IA utile, éthique et contextuelle**, capable de répondre aux besoins spécifiques des communautés locales — particulièrement en Afrique.
-
-> "L’intelligence artificielle ne vaut que si elle résout un vrai problème humain."
+::: {.value-card}
+**📚 Partage**  
+Transmission des connaissances
+:::
+:::
+:::
 
 ---
 
 ## 🤝 Ce que je recherche
 
-- Collaborations sur des projets à impact
-- Opportunités de recherche ou de formation avancée (ex. AIMS, bourses internationales)
-- Partage de connaissance via YouTube, LinkedIn ou workshops
+::: {.goals-section}
+- **🚀 Collaborations** sur des projets à impact social et environnemental
+- **🎓 Opportunités de recherche** ou formation avancée (AIMS, bourses internationales)
+- **📢 Partage de connaissances** via YouTube, LinkedIn ou workshops
+- **🌍 Projets internationaux** avec focus sur l'Afrique
+:::
 
 ---
 
-## 📫 Contact
+## 📫 Restons en Contact
 
-Vous pouvez me retrouver sur :
+::: {.contact-cta}
+Prêt à collaborer sur un projet innovant ? Discutons de vos défis data !
 
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/dona-erick)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge)](https://github.com/dona-eric)
-[![Email](https://img.shields.io/badge/📧%20Email-red?style=for-the-badge)](mailto:donaerickoulodji@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Contact-green?style=for-the-badge)](https://wa.me/2290151344289)
+::: {.social-links-about}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-erick)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dona-eric)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donaerickoulodji@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290151344289)
+:::
+:::

@@ -33,7 +33,7 @@ Connectons-nous sur mes profils techniques et pro :
 
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona-erick)  
 [![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/dona-eric)  
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Connect-blue?style=for-the-badge&logo=twitter)](https://twitter.com/EricSchrodinger)
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Connect-blue?style=for-the-badge&logo=twitter)](https://x.com/EricSchrodinger)
 
 ---
 
@@ -46,7 +46,7 @@ Connectons-nous sur mes profils techniques et pro :
 
 ## 🗂 Pièces jointes
 
-[![CV PDF](https://img.shields.io/badge/📄%20Mon%20CV-Télécharger-blue?style=for-the-badge&logo=adobeacrobatreader)](images/CV%20TECH%20ERIC.pdf)
+[![CV PDF](https://img.shields.io/badge/📄%20Mon%20CV-Télécharger-rouge?style=for-the-badge&logo=adobeacrobatreader)](images/CV%20TECH%20ERIC.pdf)
 
 ---
 

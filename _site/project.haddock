@@ -1,0 +1,93 @@
+= 🚀 Projets en Data Science & Développement IA
+#projets-en-data-science-développement-ia#
+
+== 📊 <https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20 Hack2Hiere Tech DataScience 2020>
+#hack2hiere-tech-datascience-2020#
+
+<<images/hack-tech.jpg Hack2Hiere>>
+Hack2Hiere
+
+Exploration des données pour identifier les principales variables
+corrélées à l’octroi de crédit. Développement d’un modèle de scoring
+crédit permettant de prédire la probabilité d’octroi.
+
+📌 __Stack__ : Pandas, Scikit-learn, Matplotlib, classification
+supervisée.
+
+________________________________________________________________________
+
+== 😄 <https://github.com/dona-erick/Projet-Reconnaissance-Emotion-RealTime Système de Reconnaissance d’Émotions en Temps Réel>
+#système-de-reconnaissance-démotions-en-temps-réel#
+
+<<images/emotions.jpg Emotion Recognition>>
+Emotion Recognition
+
+Ce projet permet de détecter les émotions humaines (joie, tristesse,
+colère, etc.) en temps réel via la webcam.
+
+📌 __Tech__ : OpenCV, Deep Learning, CNN, Keras, Python.
+
+________________________________________________________________________
+
+== 📰 <https://github.com/dona-erick/VeritaAI Détection automatique de Fake News>
+#détection-automatique-de-fake-news#
+
+<<images/fake-news.jpg Fake News>>
+Fake News
+
+Développement d’un système intelligent capable d’identifier
+automatiquement les fausses informations circulant en ligne.
+Prétraitement, vectorisation, modélisation et suivi via MLflow.
+
+📌 __Tech__ : NLP, TF-IDF, SVM, RandomForest, MLflow
+
+________________________________________________________________________
+
+== 🛒 API de Gestion de Ventes d’articles téléphoniques
+#api-de-gestion-de-ventes-darticles-téléphoniques#
+
+<<images/ventes.png Ventes>>
+Ventes
+
+Développement des versions stables d’api intégrée à Flutter qui permet à
+une boutique de ventes d’articles d’ajouter, modifier et de suivre en
+temps réel ses ventes. Un dashboard dynamique est mit en plus pour
+suivre de façon régulière et analytique ses articles .
+
+📌 __Stack__ : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter
+
+🔒 __Code Source__ :
+<https://github.com/dona-eric/Gestion-des-ventes API>
+
+== <https://github.com/dona-eric/course-repo-coursera OnlineCourse(Coursera)>
+#onlinecoursecoursera#
+
+<<images/onlinecourse_app.png coursera-architect>>
+coursera-architect
+
+OnlineCourse est une application qui a déjà été fournie dans ce
+référentiel sur laquelle j’ai contribué en ajoutant une nouvelle
+fonctionnalité d’évaluation. J’ai ainsi contribué au développement du
+projet final sur Theia hébergé par IBM Developer Skills Network .
+
+________________________________________________________________________
+
+== 🌐 Mon Portfolio
+#mon-portfolio#
+
+<<images/portfolio.png Portfolio>>
+Portfolio
+
+Portfolio personnel développé avec __Quarto__, pour centraliser mes
+projets, expériences, compétences et participations.
+
+📌 __Tech__ : Quarto, HTML, CSS, GitHub Pages 🔗
+<https://github.com/dona-eric/dona-erick Voir le code source>
+
+________________________________________________________________________
+
+📬 Pour toute collaboration ou question technique, contactez-moi via
+<https://www.linkedin.com/in/dona-erick/ LinkedIn> ou directement dans
+la section __Contact__ du site.
+
+✨ D’autres projets sont en cours de développement… restez connectés !

@@ -1,79 +1,202 @@
 ---
 title: "Mes Projets"
-format: html
-toc: true
-toc-location: left
-number-sections: false
+subtitle: "Data Science & Développement IA"
+format: 
+  html:
+    css: styles.css
+    toc: true
+    number-sections: false
+page-layout: full
 ---
 
-# 🚀 Projets en Data Science & Développement IA
+::: {.projects-hero}
+# Projets Data Science & IA
 
-## 📊 [Hack2Hiere Tech DataScience 2020](https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20)
-
-![Hack2Hiere](images/hack-tech.jpg){.projet-photo}
-
-Exploration des données pour identifier les principales variables corrélées à l'octroi de crédit.
-Développement d’un modèle de scoring crédit permettant de prédire la probabilité d’octroi.
-
-📌 **Stack** : Pandas, Scikit-learn, Matplotlib, classification supervisée.
-
----
-
-## 😄 [Système de Reconnaissance d'Émotions en Temps Réel](https://github.com/dona-erick/Projet-Reconnaissance-Emotion-RealTime)
-
-![Emotion Recognition](images/emotions.jpg){.projet-photo}
-
-
-Ce projet permet de détecter les émotions humaines (joie, tristesse, colère, etc.) en temps réel via la webcam.
-
-📌 **Tech** : OpenCV, Deep Learning, CNN, Keras, Python.
+Découvrez mes réalisations techniques, de l'analyse de données à l'intelligence artificielle, en passant par le développement d'applications complètes.
+:::
 
 ---
 
-## 📰 [Détection automatique de Fake News](https://github.com/dona-erick/System-detection-of-the-Fake-and-True-News)
+## 📊 Hack2Hiere Tech DataScience 2020
 
-![Fake News](images/fake-news.jpg){.projet-photo}
+::: {.project-card}
+::: {.project-image}
+![](images/hack-tech.jpg){.projet-photo}
+:::
 
+::: {.project-content}
+### 🎯 Scoring de Crédit Intelligent
 
-Développement d’un système intelligent capable d’identifier automatiquement les fausses informations circulant en ligne.
-Prétraitement, vectorisation, modélisation et suivi via MLflow.
+Exploration approfondie des données pour identifier les variables clés corrélées à l'octroi de crédit. Développement d'un **modèle de scoring** permettant de prédire la probabilité d'acceptation avec une précision élevée.
 
-📌 **Tech** : NLP, TF-IDF, SVM, RandomForest, MLflow
+::: {.project-tech}
+**🛠 Stack Technique :** Pandas, Scikit-learn, Matplotlib, Classification supervisée
+:::
 
----
-
-## 🛒 API de Gestion de Ventes d'articles téléphoniques
-
-![Ventes](images/ventes.png){.projet-photo}
-
-Développement des versions stables d'api intégrée à Flutter qui permet à une boutique de ventes d'articles d'ajouter, modifier et de suivre en temps réel ses ventes. Un dashboard dynamique est mit en plus pour suivre de façon régulière et analytique ses articles .
-
-📌 **Stack** : DjangoRestFramework, SQLite, Bootstrap,Python, Flutter
-
-🔒 **Code Source** : [API](https://github.com/dona-eric/Gestion-des-ventes)
-
-
-## [OnlineCourse(Coursera)](https://github.com/dona-eric/course-repo-coursera)
-
-![coursera-architect](images/onlinecourse_app.png){.projet-photo}
-
-OnlineCourse est une application  qui a déjà été fournie dans ce référentiel sur laquelle j'ai contribué en ajoutant une nouvelle fonctionnalité d'évaluation. J'ai ainsi contribué au développement du projet final sur Theia hébergé par IBM Developer Skills Network .
-
+::: {.project-links}
+[Code Source](https://github.com/dona-eric/Hack2Hiere_TechTech_DataScience_20){.btn .btn-github}
+[Demo](https://risk-app.streamlit.risk.app){.btn .btn-primary}
+:::
+:::
+:::
 
 ---
 
-## 🌐 Mon Portfolio
+## 😄 Système de Reconnaissance d'Émotions
 
-![Portfolio](images/portfolio.png){.projet-photo}
+::: {.project-card}
+::: {.project-image}
+![](images/emotions.jpg){.projet-photo}
+:::
 
+::: {.project-content}
+### 🎭 Détection d'Émotions en Temps Réel
 
-Portfolio personnel développé avec **Quarto**, pour centraliser mes projets, expériences, compétences et participations.
+Application innovante capable de détecter les émotions humaines (joie, tristesse, colère, surprise, etc.) **en temps réel** via webcam. Utilisation de réseaux de neurones convolutionnels pour une reconnaissance précise.
 
-📌 **Tech** : Quarto, HTML, CSS, GitHub Pages
-🔗 [Voir le code source](https://github.com/dona-erick/portfolio-quarto)
+::: {.project-tech}
+**🛠 Technologies :** OpenCV, Deep Learning, CNN, Keras, Python
+:::
+
+::: {.project-links}
+[Code Source](https://github.com/dona-erick/Projet-Reconnaissance-Emotion-RealTime){.btn .btn-github}
+:::
+:::
+:::
 
 ---
 
-📬 Pour toute collaboration ou question technique, contactez-moi via [LinkedIn](https://www.linkedin.com/in/don-erick/) ou directement dans la section **Contact** du site.
+## 📰 VeritaAI - Détecteur de Fake News
 
-> ✨ D'autres projets sont en cours de développement… restez connectés !
+::: {.project-card}
+::: {.project-image}
+![](images/veritaAI.png){.projet-photo}
+:::
+
+::: {.project-content}
+### 🔍 Intelligence Artificielle contre la Désinformation
+
+Système intelligent de détection automatique des **fausses informations** circulant en ligne. Pipeline complet incluant prétraitement des textes, vectorisation avancée, modélisation ML et suivi des performances via MLflow.
+
+::: {.project-tech}
+**🛠 Stack IA :** NLP, TF-IDF, SVM, Random Forest, MLflow, Streamlit
+:::
+
+::: {.project-links}
+[Code Source](https://github.com/dona-erick/VeritaAI){.btn .btn-github}
+[Démo Verita](https://verita-ai.streamlit.app){.btn .btn-primary}
+
+:::
+:::
+:::
+
+---
+
+## 🛒 API Gestion Ventes Mobile
+
+::: {.project-card}
+::: {.project-image}
+![](images/ventes.png){.projet-photo}
+:::
+
+::: {.project-content}
+### 📱 Solution E-commerce Complète
+
+API robuste intégrée à une application Flutter pour la gestion complète d'une boutique d'articles téléphoniques. **Dashboard analytique** en temps réel pour le suivi des ventes, gestion des stocks et analyse des performances.
+
+::: {.project-features}
+**✨ Fonctionnalités :**
+- Gestion CRUD des articles
+- Suivi temps réel des ventes
+- Dashboard analytique
+- Interface mobile Flutter
+:::
+
+::: {.project-tech}
+**🛠 Stack :** Django REST Framework, SQLite, Bootstrap, Python, Flutter
+:::
+
+::: {.project-links}
+[Code Source](https://github.com/dona-eric/Gestion-des-ventes){.btn .btn-github}
+:::
+:::
+:::
+
+---
+
+## 📚 OnlineCourse (Coursera)
+
+::: {.project-card}
+::: {.project-image}
+![](images/onlinecourse_app.png){.projet-photo}
+:::
+
+::: {.project-content}
+### 🎓 Contribution Open Source
+
+Contribution significative au projet OnlineCourse en ajoutant une **fonctionnalité d'évaluation** complète. Développement collaboratif sur l'environnement Theia hébergé par IBM Developer Skills Network.
+
+::: {.project-tech}
+**🛠 Contribution :** Système d'évaluation, Interface utilisateur, Tests
+:::
+
+::: {.project-links}
+[Repository](https://github.com/dona-eric/course-repo-coursera){.btn .btn-github}
+:::
+:::
+:::
+
+---
+
+## 🌐 Portfolio Personnel
+
+::: {.project-card}
+::: {.project-image}
+![](images/Eric-2.JPG){.projet-photo}
+:::
+
+::: {.project-content}
+### Site Web Professionnel
+
+Portfolio moderne et responsive développé avec **Quarto**, centralisant l'ensemble de mes projets, expériences, compétences et participations. Design élégant et optimisé pour tous les appareils.
+
+::: {.project-tech}
+**🛠 Technologies :** Quarto, HTML5, CSS3, JavaScript, GitHub Pages
+:::
+
+::: {.project-links}
+[Code Source](https://github.com/dona-eric/dona-erick){.btn .btn-github}
+[Site Live](https://dona-eric.github.io/dona-erick.com){.btn .btn-primary}
+:::
+:::
+:::
+
+---
+
+::: {.projects-cta}
+## 💡 Projets en Développement
+
+::: {.dev-projects}
+**🚀 À venir :**
+- Système de recommandation e-commerce
+- Chatbot IA pour l'agriculture
+- Application de monitoring environnemental
+- Plateforme d'analyse prédictive
+:::
+
+> ✨ **D'autres projets innovants sont en cours de développement… Restez connectés !**
+:::
+
+---
+
+::: {.contact-projects}
+## 🤝 Collaboration & Contact
+
+Intéressé par un projet ? Une question technique ? Contactez-moi !
+
+::: {.project-contact-links}
+[💼 LinkedIn](https://www.linkedin.com/in/dona-erick/){.btn .btn-linkedin}
+[📧 Email](mailto:donaerickoulodji@gmail.com){.btn .btn-email}
+[📱 Contact Direct](contact.qmd){.btn .btn-outline}
+:::
+:::
