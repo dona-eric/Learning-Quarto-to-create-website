@@ -1,53 +1,133 @@
 ---
-title: "Contact"
+title: "📬 Contact Me"
 format: html
 page-layout: full
 ---
-
-# 📬 Me Contacter
-
-Vous souhaitez **collaborer**, poser une question, ou simplement échanger ?  
+Vous souhaitez **collaborer**, poser une question, ou simplement échanger ?   
 N'hésitez pas à me contacter via les moyens ci-dessous. Je suis **disponible pour des missions à distance ou en présentiel**.
 
 ---
 
-## 💬 WhatsApp
+## Contactez-moi rapidement
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### 💬 WhatsApp
 Démarrez une conversation directe avec moi :
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2290151344289)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Message%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290151344289)
 
----
+*Réponse sous 2h en moyenne*
+:::
 
-## 📞 Téléphone
-
+::: {.g-col-12 .g-col-md-6}
+### 📞 Téléphone
 **Appelez-moi directement :**
 
-[![Téléphone](https://img.shields.io/badge/📱%20Téléphone-Contact-green?style=for-the-badge&logo=phone)](tel:+2290151344289)
+[![Téléphone](https://img.shields.io/badge/📱%20Téléphone-Appel%20Direct-34C759?style=for-the-badge&logo=phone&logoColor=white)](tel:+2290151344289)
+
+*Disponible 9h-18h (GMT+1)*
+:::
+
+:::
 
 ---
 
 ## 💼 Réseaux professionnels
 
-Connectons-nous sur mes profils techniques et pro :
+Connectons-nous sur mes profils techniques et professionnels :
 
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona-erick)  
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/dona-eric)  
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Connect-blue?style=for-the-badge&logo=twitter)](https://x.com/EricSchrodinger)
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-4}
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Réseau%20Pro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-erick)
+:::
+
+::: {.g-col-12 .g-col-sm-4}
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Mes%20Projets-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dona-eric)
+:::
+
+::: {.g-col-12 .g-col-sm-4}
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-Suivez%20moi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/EricSchrodinger)
+:::
+
+:::
 
 ---
 
-## 📍 Localisation
+## 📧 Email Professionnel
 
-📌 **Cotonou, Bénin**  
-📡 Ouvert aux projets **à distance ou sur site**
+Pour les **demandes formelles** ou les **propositions de collaboration** :
 
----
-
-## 🗂 Pièces jointes
-
-[![CV PDF](https://img.shields.io/badge/📄%20Mon%20CV-Télécharger-rouge?style=for-the-badge&logo=adobeacrobatreader)](images/CV%20TECH%20ERIC.pdf)
+[![ ](https://img.shields.io/badge/📧%20Email-donaerickoulodji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donaerickoulodji@gmail.com)
 
 ---
 
-> "Open to Work"
+## Informations pratiques
+
+::: {.callout-note icon=false}
+## Localisation & Disponibilité
+
+📌 **Basé à Cotonou, Bénin**  
+🌍 **Projets acceptés :** À distance ou sur site  
+⏰ **Disponibilité :** Immédiate pour nouvelles missions  
+🎯 **Spécialisations :** Data Science, Machine Learning, Développement Web
+:::
+
+---
+
+## 📄 Documents utiles
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+[![CV PDF](https://img.shields.io/badge/📄%20Mon%20CV-Télécharger%20PDF-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](images/CV%20TECH%20ERIC.pdf)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+[![Portfolio](https://img.shields.io/badge/🎨%20Portfolio-Voir%20mes%20projets-FF6B35?style=for-the-badge&logo=github&logoColor=white)](project.qmd)
+:::
+
+:::
+
+---
+
+## 💡 Types de collaborations recherchées
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### 🤝 Missions freelance
+- Projets data science
+- Développement d'applications
+- Consulting technique
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Opportunités CDI
+- Data Scientist
+- Machine Learning Engineer
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### 🎓 Formations & Mentoring
+- Workshops en entreprise
+- Formation en data science
+- Accompagnement projets
+:::
+
+:::
+
+---
+
+::: {.callout-tip}
+
+Je m'engage à répondre à tous les messages dans les **24h ouvrées**.  
+Pour les urgences, privilégiez WhatsApp ou l'appel direct.
+:::
+
+---
+
+> **"Open to Work"** 
+> *Prêt à rejoindre votre équipe ou à donner vie à vos projets data !*

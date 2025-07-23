@@ -7,7 +7,7 @@ website:
   title: "Data Scientist & Machine Learning Engineer"
   google-analytics: "G-KXW8KRW3V1"
   navbar:
-    background: primary
+    background: secondary
     foreground: light
     left:
       - href: index.qmd
