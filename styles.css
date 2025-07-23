@@ -2,18 +2,18 @@
 
 /* Styles généraux */
 :root {
-  --primary-color: #2563eb;
-  --secondary-color: #1e40af;
-  --accent-color: #7c3aed;
+  --primary-color: #2e3135;
+  --secondary-color: #10121b;
+  --accent-color: #444149;
   --text-dark: #1f2937;
   --text-light: #6b7280;
-  --bg-light: #f8fafc;
-  --border-color: #e5e7eb;
+  --bg-light: #2d3032;
+  --border-color: #2a2b2e;
 }
 
 /* Section hero */
 .hero-section {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #1c1c1f 0%, #1a191b 100%);
   color: white;
   padding: 4rem 2rem;
   margin: -2rem -2rem 2rem -2rem;
@@ -74,6 +74,7 @@
   color: white;
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
+  text-decoration: none;
 }
 
 .btn-outline {
@@ -191,142 +192,13 @@ p {
 }
 
 
-
-
-
-
-/* Grille des compétences */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.skill-card {
-  background: var(--bg-light);
-  padding: 1.5rem;
-  border-radius: 1rem;
-  border-left: 4px solid var(--primary-color);
-  transition: all 0.3s ease;
-}
-
-/* Section projets */
-.projects-preview {
-  background: linear-gradient(45deg, #f8fafc, #e2e8f0);
-  padding: 2rem;
-  border-radius: 1rem;
-  text-align: center;
-  margin: 2rem 0;
-}
-
-/* Section contact */
-.contact-section {
-  text-align: center;
-  padding: 2rem;
-  background: var(--bg-light);
-  border-radius: 1rem;
-  margin: 2rem 0;
-}
-
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0;
-}
-
-.social-links img {
-  transition: transform 0.3s ease;
-}
-
-.social-links a:hover img {
-  transform: scale(1.1);
-}
-
-/* Section citation */
-.quote-section {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 2rem;
-  border-radius: 1rem;
-  text-align: center;
-  margin: 2rem 0;
-}
-
-.quote-section blockquote {
-  font-size: 1.2rem;
-  font-style: italic;
-  margin-bottom: 1rem;
-  border: none;
-}
-
-/* Footer */
-.footer-counter {
-  text-align: center;
-  margin: 2rem 0;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .hero-section {
-    padding: 2rem 1rem;
-  }
-  
-  .profile-image {
-    width: 150px;
-    height: 150px;
-  }
-  
-  .social-links {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .skills-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* Animations */
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.skill-card, .projects-preview, .contact-section {
-  animation: fadeInUp 0.6s ease-out;
-}
-
-/* Amélioration de la typographie */
-h1, h2, h3 {
-  color: var(--text-dark);
-  line-height: 1.2;
-}
-
-p {
-  line-height: 1.6;
-  color: var(--text-light);
-}
-
-
-
-
-
 /* ===================
    STYLES PAGE ABOUT
    =================== */
 
 /* Section hero about */
 .about-hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #252627 0%, #141018 100%);
   color: white;
   padding: 3rem 2rem;
   margin: -2rem -2rem 2rem -2rem;
@@ -369,7 +241,7 @@ p {
 }
 
 .education-card {
-  background: white;
+  background: rgb(44, 42, 42);
   padding: 1.5rem;
   border-radius: 1rem;
   border-left: 4px solid var(--primary-color);
@@ -402,7 +274,7 @@ p {
 
 .experience-item {
   position: relative;
-  background: white;
+  background: rgb(49, 47, 47);
   padding: 1.5rem;
   margin: 1.5rem 0;
   border-radius: 1rem;
@@ -489,7 +361,7 @@ p {
 
 /* Section vision */
 .vision-section {
-  background: linear-gradient(45deg, #f8fafc, #e2e8f0);
+  background: linear-gradient(45deg, #242526, #e2e8f0);
   padding: 2rem;
   border-radius: 1rem;
   margin: 2rem 0;
@@ -513,7 +385,7 @@ p {
 }
 
 .value-card {
-  background: white;
+  background: rgb(11, 10, 10);
   padding: 1rem;
   border-radius: 0.5rem;
   text-align: center;
@@ -528,7 +400,7 @@ p {
 
 /* Section objectifs */
 .goals-section {
-  background: white;
+  background: rgb(36, 34, 34);
   padding: 1.5rem;
   border-radius: 1rem;
   border: 1px solid var(--border-color);
@@ -542,7 +414,7 @@ p {
 
 /* CTA contact */
 .contact-cta {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #222223 0%, #232223 100%);
   color: white;
   padding: 2rem;
   border-radius: 1rem;
@@ -604,7 +476,7 @@ p {
 
 /* Hero section projets */
 .projects-hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #22242d 0%, #1a1222 100%);
   color: white;
   padding: 3rem 2rem;
   margin: -2rem -2rem 2rem -2rem;
@@ -615,7 +487,7 @@ p {
 /* Cards projets */
 .project-card {
   display: flex;
-  background: white;
+  background: rgb(54, 48, 48);
   border-radius: 1rem;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
   margin: 2rem 0;
@@ -854,3 +726,239 @@ p {
     grid-template-columns: 1fr;
   }
 }
+
+/*============
+STYLES CONTACTS
+============*/
+
+/* Grilles Quarto */
+.grid {
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.g-col-12, .g-col-md-6, .g-col-sm-4, .g-col-md-4 {
+  padding: 1.5rem;
+  background: var(--bg-light);
+  border-radius: 15px;
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.g-col-12:hover, .g-col-md-6:hover, .g-col-sm-4:hover, .g-col-md-4:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary-color);
+}
+
+.g-col-12::before, .g-col-md-6::before, .g-col-sm-4::before, .g-col-md-4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--gradient-primary);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.g-col-12:hover::before, .g-col-md-6:hover::before, .g-col-sm-4:hover::before, .g-col-md-4:hover::before {
+  opacity: 1;
+}
+
+/* Badges/Boutons */
+img[alt*="badge"], a img {
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+img[alt*="badge"]:hover, a img:hover {
+  transform: scale(1.05);
+  box-shadow: var(--shadow-lg);
+}
+
+/* Liens */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Callouts Quarto */
+.callout {
+  border-radius: 15px;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-left: 5px solid;
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease;
+}
+
+.callout:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.callout-note {
+  background: linear-gradient(135deg, #3d3d44 0%, #1d1e1f 100%);
+  border-left-color: var(--primary-color);
+}
+
+.callout-tip {
+  background: linear-gradient(135deg, #353736 0%, #2d2e2e 100%);
+  border-left-color: var(--secondary-color);
+}
+
+.callout-warning {
+  background: linear-gradient(135deg, #191918 0%, #232322 100%);
+  border-left-color: var(--accent-color);
+}
+
+.callout-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Séparateurs */
+hr {
+  border: none;
+  height: 2px;
+  background: var(--gradient-primary);
+  margin: 3rem 0;
+  border-radius: 1px;
+}
+
+/* Citations/Blockquotes */
+blockquote {
+  background: var(--bg-light);
+  border-left: 5px solid var(--primary-color);
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 0 15px 15px 0;
+  font-style: italic;
+  font-size: 1.2rem;
+  position: relative;
+}
+
+blockquote::before {
+  content: '"';
+  font-size: 4rem;
+  color: var(--primary-color);
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  opacity: 0.3;
+}
+
+/* Animation d'apparition */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.grid > div, .callout, h2 {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .quarto-container {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 15px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .grid {
+    gap: 1rem;
+  }
+  
+  .g-col-12, .g-col-md-6, .g-col-sm-4, .g-col-md-4 {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .quarto-container {
+    padding: 1rem;
+  }
+  
+  .callout {
+    padding: 1.5rem;
+  }
+}
+
+/* Styles spécifiques aux badges sociaux */
+img[alt*="WhatsApp"]:hover {
+  filter: brightness(1.1) saturate(1.2);
+}
+
+img[alt*="LinkedIn"]:hover {
+  filter: brightness(1.1) hue-rotate(10deg);
+}
+
+img[alt*="GitHub"]:hover {
+  filter: brightness(1.2) contrast(1.1);
+}
+
+img[alt*="Twitter"]:hover {
+  filter: brightness(1.1) saturate(1.3);
+}
+
+/* Effet de parallaxe léger sur le scroll */
+@media (prefers-reduced-motion: no-preference) {
+  .callout {
+    transform: translateZ(0);
+    will-change: transform;
+  }
+}
+
+/* Mode sombre (optionnel) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-dark: #f9fafb;
+    --text-light: #d1d5db;
+    --bg-light: #1f2937;
+    --border-color: #374151;
+  }
+  
+  body {
+    background: linear-gradient(135deg, #1e3a8a 0%, #3730a3 100%);
+  }
+  
+  .quarto-container {
+    background: #111827;
+    color: var(--text-dark);
+  }
+}
+
