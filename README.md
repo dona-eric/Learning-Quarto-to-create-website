@@ -134,7 +134,7 @@ quarto publish gh-pages
 | Canal | Lien | Usage |
 |-------|------|-------|
 | 💬 **WhatsApp** | [Message Direct](https://wa.me/2290151344289) | Discussions rapides |
-| 📧 **Email** | [dona.eric@example.com](mailto:donaerickoulodji@gmail.com) | Propositions formelles |
+| 📧 **Email** | [donaerickoulodji@gmail.com](mailto:donaerickoulodji@gmail.com) | Propositions formelles |
 | 💼 **LinkedIn** | [dona-erick](https://www.linkedin.com/in/dona-erick) | Réseau professionnel |
 | 🐙 **GitHub** | [@dona-eric](https://github.com/dona-eric) | Collaboration technique |
 | 🐦 **Twitter** | [@EricSchrodinger](https://x.com/EricSchrodinger) | Veille tech |
@@ -145,7 +145,7 @@ quarto publish gh-pages
 
 ### **📋 Documents**
 - [📄 **CV Technique**](images/CV%20TECH%20ERIC.pdf) - Version PDF complète
-- [🎨 **Portfolio Web**](https://dona-eric.github.io) - Site en ligne
+- [🎨 **Portfolio Web**](https://dona-eric.github.io/dona-erick) - Site en ligne
 - [📊 **Présentation 5min**](slides/presentation-eric-dona.pdf) - Pitch rapide
 
 ### **🔗 Liens Importants**
